@@ -115,7 +115,7 @@ df <- data.frame()
 part <- "snippet,statistics"
 chart <- "mostPopular"
 max_results <- 50
-api_key <- "AIzaSyA1IAF_ehHniFxPz4WIHLlzAFlYMSrHKGU"
+api_key <- "dummy"
 
 # Define a list of countries and their corresponding region codes
 countries <- list(
